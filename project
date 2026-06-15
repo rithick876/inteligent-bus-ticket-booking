@@ -1,0 +1,102 @@
+# 🚌 Intelligent Bus Ticket Booking System
+
+## 📌 Project Overview
+
+The Intelligent Bus Ticket Booking System is a smart web-based application that helps users search, book, and manage bus tickets efficiently. The system uses intelligent features such as route recommendations, seat availability tracking, fare estimation, and automated booking management to provide a seamless travel experience.
+
+## 🎯 Objectives
+
+* Simplify bus ticket booking.
+* Provide real-time seat availability.
+* Recommend suitable buses based on user preferences.
+* Reduce manual booking efforts.
+* Improve user experience through automation.
+
+## ✨ Features
+
+* User Registration and Login
+* Search Buses by Source and Destination
+* Real-Time Seat Availability
+* Online Ticket Booking
+* Fare Calculation
+* Booking History
+* Ticket Cancellation
+* Smart Bus Recommendations
+* Admin Dashboard for Bus Management
+
+## 🛠️ Technologies Used
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+
+### Backend
+
+* Python
+* Flask
+
+### Database
+
+* MySQL / SQLite
+
+### Version Control
+
+* Git & GitHub
+
+## 🏗️ System Architecture
+
+User → Web Interface → Flask Backend → Database
+
+The user interacts with the web interface, which communicates with the Flask backend. The backend processes requests, retrieves data from the database, and returns booking information to the user.
+
+## 📂 Project Structure
+
+Intelligent-Bus-Ticket-Booking/
+│
+├── static/
+├── templates/
+├── database/
+├── app.py
+├── requirements.txt
+├── README.md
+└── screenshots/
+
+## 🚀 Future Enhancements
+
+* AI-based demand prediction
+* Dynamic ticket pricing
+* Live bus tracking using GPS
+* Voice-based ticket booking
+* Mobile application support
+* Chatbot for customer assistance
+
+## 🎓 Learning Outcomes
+
+* Web Application Development
+* Database Management
+* Backend Development using Flask
+* Git and GitHub Workflow
+* Software Project Management
+
+## 📸 Screenshots
+
+Add screenshots of:
+
+* Login Page
+* Bus Search Page
+* Seat Selection Page
+* Booking Confirmation Page
+* Admin Dashboard
+
+## 👨‍💻 Author
+
+Rithick Sakthi
+
+First Year Engineering Student (AI & Data Science)
+
+## 📄 License
+
+This project is developed for educational and learning purposes.
